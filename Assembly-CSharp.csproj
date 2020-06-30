@@ -61,7 +61,7 @@
      <Compile Include="Assets\Cat.cs" />
      <Compile Include="Assets\CatPlayer.cs" />
      <Compile Include="Assets\GameManager.cs" />
-     <Compile Include="Assets\PlayerController.cs" />
+     <Compile Include="Assets\playerController.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/user/Desktop/BulletGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
